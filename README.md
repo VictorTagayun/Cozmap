@@ -20,6 +20,3 @@ Wizards of Coz Common folder found [here](https://github.com/Wizards-of-Coz/Comm
 
 ## Thoughts for the Future
 This short demo can be expanded to include a lot of actions and can be used by younger kids to start learning about sequencing and computational thinking. Currently, the program only supports straight lines on the path, it could be expanded to include curved lines to make it more freeform and fun for kids. 
-
-## Get the Code
-[https://github.com/Wizards-of-Coz/Cozmap](https://github.com/Wizards-of-Coz/Cozmap)
